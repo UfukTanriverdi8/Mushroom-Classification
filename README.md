@@ -2,10 +2,12 @@
 
 This project aims to classify mushrooms as either edible or poisonous based on various features using different machine learning algorithms and a simple neural network.
 
+You can access the code also through the [Google Colab](https://colab.research.google.com/drive/1mY1Y4Az57nuF3pTPRh8cF2z45ZE5gkeY?usp=sharing) or [Kaggle](https://www.kaggle.com/code/ufuktanriverdi/mushroom-classification).
+
 ## Dataset
 
-The dataset used in this project is originally from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/848/secondary+mushroom+dataset) but i will be using a cleaned version of it. It can be accessed from [Kaggle](https://www.kaggle.com/datasets/prishasawhney/mushroom-dataset).
-You can access the code also through the [Google Colab](https://colab.research.google.com/drive/1mY1Y4Az57nuF3pTPRh8cF2z45ZE5gkeY?usp=sharing) or [Kaggle](https://www.kaggle.com/code/ufuktanriverdi/mushroom-classification).
+The dataset used in this project is originally from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/848/secondary+mushroom+dataset) but i will be using a cleaned version of it. It can be accessed from [Kaggle](https://www.kaggle.com/datasets/prishasawhney/mushroom-dataset). This dataset consists of 61069 hypothetical mushrooms with caps based on 173 species (353 mushrooms per species). Each mushroom is identified as definitely edible or definitely poisonous. Based on this dataset we will try to predict a given mushroom is edible or not by using its features.
+
 
 **Features**
 
