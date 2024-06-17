@@ -5,7 +5,7 @@ This project aims to classify mushrooms as either edible or poisonous based on v
 ## Dataset
 
 The dataset used in this project is originally from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/848/secondary+mushroom+dataset) but i will be using a cleaned version of it. It can be accessed from [Kaggle](https://www.kaggle.com/datasets/prishasawhney/mushroom-dataset).
-You can access the code through the [Google Colab](https://colab.research.google.com/drive/1mY1Y4Az57nuF3pTPRh8cF2z45ZE5gkeY?usp=sharing) or [Kaggle]().
+You can access the code also through the [Google Colab](https://colab.research.google.com/drive/1mY1Y4Az57nuF3pTPRh8cF2z45ZE5gkeY?usp=sharing) or [Kaggle]().
 
 **Features**
 
